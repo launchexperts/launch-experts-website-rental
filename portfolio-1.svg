@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" font-family="Inter, system-ui, sans-serif">
+  <rect width="960" height="600" fill="#ffffff"/>
+  <rect width="960" height="48" fill="#F1F0F5"/>
+  <circle cx="30" cy="24" r="6" fill="#FF6058"/>
+  <circle cx="52" cy="24" r="6" fill="#FFBD2E"/>
+  <circle cx="74" cy="24" r="6" fill="#28C840"/>
+  <rect x="112" y="14" width="736" height="20" rx="10" fill="#ffffff"/>
+  <circle cx="62" cy="94" r="15" fill="#6C5CE7"/>
+  <rect x="88" y="86" width="96" height="15" rx="7" fill="#1C1A3A"/>
+  <rect x="648" y="88" width="54" height="12" rx="6" fill="#C9C7D6"/>
+  <rect x="716" y="88" width="54" height="12" rx="6" fill="#C9C7D6"/>
+  <rect x="784" y="80" width="116" height="28" rx="14" fill="#6C5CE7"/>
+  <rect x="60" y="172" width="372" height="32" rx="8" fill="#1C1A3A"/>
+  <rect x="60" y="218" width="300" height="32" rx="8" fill="#1C1A3A"/>
+  <rect x="60" y="274" width="380" height="13" rx="6" fill="#C9C7D6"/>
+  <rect x="60" y="298" width="340" height="13" rx="6" fill="#C9C7D6"/>
+  <rect x="60" y="340" width="160" height="44" rx="22" fill="#6C5CE7"/>
+  <rect x="516" y="150" width="384" height="244" rx="20" fill="#E7E4FB"/>
+  <circle cx="708" cy="272" r="50" fill="#6C5CE7"/>
+  <rect x="60" y="446" width="256" height="116" rx="16" fill="#F5F4F8"/>
+  <rect x="352" y="446" width="256" height="116" rx="16" fill="#F5F4F8"/>
+  <rect x="644" y="446" width="256" height="116" rx="16" fill="#F5F4F8"/>
+  <rect x="82" y="468" width="36" height="36" rx="10" fill="#6C5CE7"/>
+  <rect x="374" y="468" width="36" height="36" rx="10" fill="#6C5CE7"/>
+  <rect x="666" y="468" width="36" height="36" rx="10" fill="#6C5CE7"/>
+  <rect x="82" y="518" width="180" height="11" rx="5" fill="#D7D5E0"/>
+  <rect x="374" y="518" width="180" height="11" rx="5" fill="#D7D5E0"/>
+  <rect x="666" y="518" width="180" height="11" rx="5" fill="#D7D5E0"/>
+  <rect x="82" y="536" width="120" height="11" rx="5" fill="#E4E3EC"/>
+  <rect x="374" y="536" width="120" height="11" rx="5" fill="#E4E3EC"/>
+  <rect x="666" y="536" width="120" height="11" rx="5" fill="#E4E3EC"/>
+  <text x="900" y="588" text-anchor="end" font-size="13" fill="#D7D5E0">Placeholder layout 01</text>
+</svg>

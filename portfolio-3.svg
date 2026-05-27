@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" font-family="Inter, system-ui, sans-serif">
+  <rect width="960" height="600" fill="#ffffff"/>
+  <rect width="960" height="48" fill="#FBF1E8"/>
+  <circle cx="30" cy="24" r="6" fill="#FF6058"/>
+  <circle cx="52" cy="24" r="6" fill="#FFBD2E"/>
+  <circle cx="74" cy="24" r="6" fill="#28C840"/>
+  <rect x="112" y="14" width="736" height="20" rx="10" fill="#ffffff"/>
+  <rect x="0" y="48" width="960" height="300" fill="#F4A261"/>
+  <rect x="280" y="118" width="400" height="30" rx="8" fill="#ffffff"/>
+  <rect x="330" y="162" width="300" height="30" rx="8" fill="#ffffff"/>
+  <rect x="360" y="216" width="240" height="14" rx="7" fill="#FBDCC2"/>
+  <rect x="400" y="262" width="160" height="44" rx="22" fill="#ffffff"/>
+  <rect x="120" y="392" width="240" height="160" rx="16" fill="#FDEBD9"/>
+  <rect x="360" y="392" width="240" height="160" rx="16" fill="#FDEBD9"/>
+  <rect x="600" y="392" width="240" height="160" rx="16" fill="#FDEBD9"/>
+  <rect x="148" y="420" width="184" height="60" rx="10" fill="#F4A261"/>
+  <rect x="388" y="420" width="184" height="60" rx="10" fill="#F4A261"/>
+  <rect x="628" y="420" width="184" height="60" rx="10" fill="#F4A261"/>
+  <rect x="148" y="500" width="150" height="12" rx="6" fill="#D7D5E0"/>
+  <rect x="388" y="500" width="150" height="12" rx="6" fill="#D7D5E0"/>
+  <rect x="628" y="500" width="150" height="12" rx="6" fill="#D7D5E0"/>
+  <rect x="148" y="522" width="110" height="12" rx="6" fill="#E4E3EC"/>
+  <rect x="388" y="522" width="110" height="12" rx="6" fill="#E4E3EC"/>
+  <rect x="628" y="522" width="110" height="12" rx="6" fill="#E4E3EC"/>
+  <text x="900" y="588" text-anchor="end" font-size="13" fill="#D7D5E0">Placeholder layout 03</text>
+</svg>
